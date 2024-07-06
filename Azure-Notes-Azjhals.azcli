@@ -1,7 +1,6 @@
 # Azure Notes:
 # Account: azjhals@hotmail.com
-# Docker with Az/cli @ cmd prompt: docker run -it mcr.microsoft.com/azure-cli
 
-az login
-
-az apim api schema list --resource-group --api-id --service-name
+# 7/6
+# In VSCODE, enter the WSL:Ubuntu from control-shift-p. Don't just open a WSL terminal.
+# See networking.sh for retrieving values from az commands. You have to remove the carriage return.
