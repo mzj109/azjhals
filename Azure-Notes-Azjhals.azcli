@@ -1,0 +1,5 @@
+# Azure Notes:
+# Account: azjhals@hotmail.com
+# Docker with Az/cli @ cmd prompt: docker run -it mcr.microsoft.com/azure-cli
+
+az login
