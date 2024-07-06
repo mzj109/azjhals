@@ -3,3 +3,5 @@
 # Docker with Az/cli @ cmd prompt: docker run -it mcr.microsoft.com/azure-cli
 
 az login
+
+az apim api schema list --resource-group --api-id --service-name
